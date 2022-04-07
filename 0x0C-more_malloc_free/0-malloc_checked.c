@@ -9,12 +9,13 @@
  * the malloc_checked function should cause
  * normal process termination with a status value of 98
  */
-
 void *malloc_checked(unsigned int b)
 {
-	void *mem = malloc(b);
+	void *n;
 
-	if (mem == NULL)
+	n = malloc(b);
+
+	if (n == NULL)
 		exit(98);
-	return (mem);
+	return (n);
 }
