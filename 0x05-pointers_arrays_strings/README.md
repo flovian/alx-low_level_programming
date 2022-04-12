@@ -1,12 +1,14 @@
-0x05. C - Pointers, arrays and strings
-Learning Objectives
+# 0x05. C - Pointers, arrays and strings
 
-What are pointers and how to use them
-What are arrays and how to use them
-What are the differences between pointers and arrays
-How to use strings and how to manipulate them
-Scope of variables0x05. C - Pointers, arrays and strings
+# Learning Objectives
 
+* What are pointers and how to use them
+* What are arrays and how to use them
+* What are the differences between pointers and arrays
+* How to use strings and how to manipulate them
+* Scope of variables0x05. C - Pointers, arrays and strings
+
+## Tasks 📃
 0. Write a function that takes a pointer to an int as parameter and updates the value it points to to 98
 1. Write a function that swaps the values of two integers
 2. Write a function that returns the length of a string
