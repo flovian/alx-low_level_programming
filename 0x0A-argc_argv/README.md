@@ -1,18 +1,5 @@
-# C - argc, argv
 
-In this project, I learned about utilizing arguments passed to C functions
-with `argc` and `argv` as well as how to use `__attribute__((unused))` or
-`void` to compile functions with unused variables or parameters.
-
-## Tasks :page_with_curl:
-
-* **0. It ain't what they call you, it's what you answer to**
-  * [0-whatsmyname.c](./0-whatsmyname.c): C program that prints its name,
-  followed by a new line.
-    * If the program is renamed, the program will print the new name without having
-    to be compiled again.
-    * The path should not be removed before the name of the program.
-# C - argc, argv
+# 0x0A.C - argc, argv
 
 In this project, I learned about utilizing arguments passed to C functions
 with `argc` and `argv` as well as how to use `__attribute__((unused))` or
