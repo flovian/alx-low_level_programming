@@ -17,4 +17,4 @@ algorithm track at ALX.  The list of projects include:
 * [0x0B. C - More malloc, free](./0x0B-more_malloc_free)
 * [0x0C. C - Preprocessor](./0x0C-preprocessor)
 * [0x0D. C - Structures, typedef](./0x0D-structures_typedef)
-* [0x0F. C - Function pointers](./0x0F. C - Function pointers)
+* [0x0F. C - Function pointers](./0x0F-function_pointers)
