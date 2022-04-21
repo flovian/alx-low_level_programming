@@ -1,7 +1,5 @@
-/*
- * Desc: 64-bit assembly program that prints
- *    Hello, Holberton followed by a new line
- */
+; Description: Writes a 64-bit assembly program that prints
+;       Hello, Holberton followed by a new line
 extern printf
 
 section .text
