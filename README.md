@@ -18,3 +18,4 @@ algorithm track at ALX.  The list of projects include:
 * [0x0C. C - Preprocessor](./0x0C-preprocessor)
 * [0x0D. C - Structures, typedef](./0x0D-structures_typedef)
 * [0x0F. C - Function pointers](./0x0F-function_pointers)
+* [0x10. C - Variadic functions](./0x10-variadic_function)
