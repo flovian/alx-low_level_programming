@@ -3,9 +3,6 @@
 I learned how to manipulate bits and use the bitwise operators 
 right shift `>>`, left shift`<<`, AND`&`, OR`|`, and XOR`^` in C.
 
-## Tests :heavy_check_mark:
-
-* [tests](./tests): Folder of test files. Provided by Holberton School.
 
 ## Helper File :raised_hands:
 
